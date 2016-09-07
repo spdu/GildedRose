@@ -33,7 +33,7 @@ public class GildedRose {
                     }
                 }
             }
-            else
+            else		
             {
                 if (items.get(i).getQuality() < 50)
                 {
